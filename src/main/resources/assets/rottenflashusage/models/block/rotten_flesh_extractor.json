@@ -1,0 +1,11 @@
+{
+  "parent": "rottenflashusage:block/customparents/custom_orientable",
+  "textures": {
+    "top": "rottenflashusage:blocks/rotten_flesh_extractor_up",
+    "front": "rottenflashusage:blocks/rotten_flesh_extractor_off_front",
+    "back": "rottenflashusage:blocks/rotten_flesh_extractor_back",
+    "sidee": "rottenflashusage:blocks/rotten_flesh_extractor_right",
+    "sidew":"rottenflashusage:blocks/rotten_flesh_extractor_left",
+    "bottom": "rottenflashusage:blocks/rotten_flesh_extractor_down"
+  }
+}

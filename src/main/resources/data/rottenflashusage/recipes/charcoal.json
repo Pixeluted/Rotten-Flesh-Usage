@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "rottenflashusage:meal_crash"
+        }
+    ],
+    "result": {
+        "item": "minecraft:charcoal",
+        "count": 1
+    }
+}

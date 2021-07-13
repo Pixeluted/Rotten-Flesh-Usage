@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "rottenflashusage:meal_crash"
+        },
+        {
+            "item": "rottenflashusage:meal_crash"
+        },
+        {
+            "item": "rottenflashusage:meal_crash"
+        },
+        {
+            "item": "rottenflashusage:meal_crash"
+        }
+    ],
+    "result": {
+        "item": "minecraft:bone_meal",
+        "count": 1
+    }
+}
